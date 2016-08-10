@@ -11,3 +11,5 @@ Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman OK 7307
 
 Email: acallaghan@ou.edu
 - - - 
+Please cite by including the following DOI: **Zenodo.doi.XXXXXXXXX**
+- - - 
