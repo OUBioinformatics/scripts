@@ -1,6 +1,6 @@
 ## A Database of Anaerobic Hydrocarbon Degradation Genes (AnHyDeg)
 
-### Author: Amy V. Callghan
+### Amy V. Callghan <sup>*</sup>
 
 ##### Department of Microbiology and Plant Biology
 ##### University of Oklahoma
