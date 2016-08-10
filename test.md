@@ -3,7 +3,7 @@
 
 ### Amy V. Callghan <sup>*</sup>
 - - - 
-<sup>*</sup> Corresponding Author
+**<sup>*</sup> Corresponding Author**
 
 Department of Microbiology and Plant Biology
 
