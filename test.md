@@ -1,7 +1,7 @@
 - - - 
 ## A Database of Anaerobic Hydrocarbon Degradation Genes (AnHyDeg)
 
-### Amy V. Callghan <sup>*</sup>
+### Amy V. Callaghan <sup>*</sup>
 - - - 
 **<sup>*</sup> Corresponding Author**
 
